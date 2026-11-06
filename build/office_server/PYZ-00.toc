@@ -1,0 +1,1614 @@
+('C:\\Users\\TALAL HUSSAIN\\Downloads\\files '
+ '(2)\\build\\office_server\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_ast_unparse',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_ast_unparse.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_py_warnings',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_py_warnings.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl._module_completer',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\_module_completer.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('_pyrepl.content',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\content.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.fancycompleter',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\fancycompleter.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('_pyrepl.layout',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\layout.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.render',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\render.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.terminfo',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\terminfo.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('annotationlib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\annotationlib.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.graph',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\graph.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('compression',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\compression\\__init__.py',
+   'PYMODULE'),
+  ('compression._common',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\compression\\_common\\__init__.py',
+   'PYMODULE'),
+  ('compression._common._streams',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\compression\\_common\\_streams.py',
+   'PYMODULE'),
+  ('compression.zstd',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\compression\\zstd\\__init__.py',
+   'PYMODULE'),
+  ('compression.zstd._zstdfile',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\compression\\zstd\\_zstdfile.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.interpreter',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\futures\\interpreter.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.interpreters',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\interpreters\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._crossinterp',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\interpreters\\_crossinterp.py',
+   'PYMODULE'),
+  ('concurrent.interpreters._queues',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\concurrent\\interpreters\\_queues.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes._layout',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ctypes\\_layout.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('docx',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\__init__.py',
+   'PYMODULE'),
+  ('docx.api',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\api.py',
+   'PYMODULE'),
+  ('docx.blkcntnr',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\blkcntnr.py',
+   'PYMODULE'),
+  ('docx.comments',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\comments.py',
+   'PYMODULE'),
+  ('docx.dml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\dml\\__init__.py',
+   'PYMODULE'),
+  ('docx.dml.color',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\dml\\color.py',
+   'PYMODULE'),
+  ('docx.document',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\document.py',
+   'PYMODULE'),
+  ('docx.drawing',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('docx.enum',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\__init__.py',
+   'PYMODULE'),
+  ('docx.enum.base',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\base.py',
+   'PYMODULE'),
+  ('docx.enum.dml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\dml.py',
+   'PYMODULE'),
+  ('docx.enum.section',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\section.py',
+   'PYMODULE'),
+  ('docx.enum.shape',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\shape.py',
+   'PYMODULE'),
+  ('docx.enum.style',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\style.py',
+   'PYMODULE'),
+  ('docx.enum.table',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\table.py',
+   'PYMODULE'),
+  ('docx.enum.text',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\enum\\text.py',
+   'PYMODULE'),
+  ('docx.exceptions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\exceptions.py',
+   'PYMODULE'),
+  ('docx.image',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\__init__.py',
+   'PYMODULE'),
+  ('docx.image.bmp',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\bmp.py',
+   'PYMODULE'),
+  ('docx.image.constants',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\constants.py',
+   'PYMODULE'),
+  ('docx.image.exceptions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\exceptions.py',
+   'PYMODULE'),
+  ('docx.image.gif',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\gif.py',
+   'PYMODULE'),
+  ('docx.image.helpers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\helpers.py',
+   'PYMODULE'),
+  ('docx.image.image',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\image.py',
+   'PYMODULE'),
+  ('docx.image.jpeg',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\jpeg.py',
+   'PYMODULE'),
+  ('docx.image.png',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\png.py',
+   'PYMODULE'),
+  ('docx.image.tiff',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\image\\tiff.py',
+   'PYMODULE'),
+  ('docx.opc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\__init__.py',
+   'PYMODULE'),
+  ('docx.opc.constants',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\constants.py',
+   'PYMODULE'),
+  ('docx.opc.coreprops',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\coreprops.py',
+   'PYMODULE'),
+  ('docx.opc.exceptions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\exceptions.py',
+   'PYMODULE'),
+  ('docx.opc.oxml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\oxml.py',
+   'PYMODULE'),
+  ('docx.opc.package',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\package.py',
+   'PYMODULE'),
+  ('docx.opc.packuri',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\packuri.py',
+   'PYMODULE'),
+  ('docx.opc.part',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\part.py',
+   'PYMODULE'),
+  ('docx.opc.parts',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\parts\\__init__.py',
+   'PYMODULE'),
+  ('docx.opc.parts.coreprops',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\parts\\coreprops.py',
+   'PYMODULE'),
+  ('docx.opc.phys_pkg',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\phys_pkg.py',
+   'PYMODULE'),
+  ('docx.opc.pkgreader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\pkgreader.py',
+   'PYMODULE'),
+  ('docx.opc.pkgwriter',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\pkgwriter.py',
+   'PYMODULE'),
+  ('docx.opc.rel',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\rel.py',
+   'PYMODULE'),
+  ('docx.opc.shared',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\shared.py',
+   'PYMODULE'),
+  ('docx.opc.spec',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\opc\\spec.py',
+   'PYMODULE'),
+  ('docx.oxml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.comments',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\comments.py',
+   'PYMODULE'),
+  ('docx.oxml.coreprops',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\coreprops.py',
+   'PYMODULE'),
+  ('docx.oxml.document',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\document.py',
+   'PYMODULE'),
+  ('docx.oxml.drawing',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\drawing.py',
+   'PYMODULE'),
+  ('docx.oxml.exceptions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\exceptions.py',
+   'PYMODULE'),
+  ('docx.oxml.ns',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\ns.py',
+   'PYMODULE'),
+  ('docx.oxml.numbering',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\numbering.py',
+   'PYMODULE'),
+  ('docx.oxml.parser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\parser.py',
+   'PYMODULE'),
+  ('docx.oxml.section',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\section.py',
+   'PYMODULE'),
+  ('docx.oxml.settings',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\settings.py',
+   'PYMODULE'),
+  ('docx.oxml.shape',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\shape.py',
+   'PYMODULE'),
+  ('docx.oxml.shared',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\shared.py',
+   'PYMODULE'),
+  ('docx.oxml.simpletypes',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\simpletypes.py',
+   'PYMODULE'),
+  ('docx.oxml.styles',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\styles.py',
+   'PYMODULE'),
+  ('docx.oxml.table',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\table.py',
+   'PYMODULE'),
+  ('docx.oxml.text',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\__init__.py',
+   'PYMODULE'),
+  ('docx.oxml.text.font',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\font.py',
+   'PYMODULE'),
+  ('docx.oxml.text.hyperlink',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\hyperlink.py',
+   'PYMODULE'),
+  ('docx.oxml.text.pagebreak',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\pagebreak.py',
+   'PYMODULE'),
+  ('docx.oxml.text.paragraph',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\paragraph.py',
+   'PYMODULE'),
+  ('docx.oxml.text.parfmt',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\parfmt.py',
+   'PYMODULE'),
+  ('docx.oxml.text.run',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\text\\run.py',
+   'PYMODULE'),
+  ('docx.oxml.xmlchemy',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\oxml\\xmlchemy.py',
+   'PYMODULE'),
+  ('docx.package',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\package.py',
+   'PYMODULE'),
+  ('docx.parts',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\__init__.py',
+   'PYMODULE'),
+  ('docx.parts.comments',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\comments.py',
+   'PYMODULE'),
+  ('docx.parts.document',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\document.py',
+   'PYMODULE'),
+  ('docx.parts.hdrftr',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\hdrftr.py',
+   'PYMODULE'),
+  ('docx.parts.image',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\image.py',
+   'PYMODULE'),
+  ('docx.parts.numbering',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\numbering.py',
+   'PYMODULE'),
+  ('docx.parts.settings',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\settings.py',
+   'PYMODULE'),
+  ('docx.parts.story',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\story.py',
+   'PYMODULE'),
+  ('docx.parts.styles',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\parts\\styles.py',
+   'PYMODULE'),
+  ('docx.section',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\section.py',
+   'PYMODULE'),
+  ('docx.settings',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\settings.py',
+   'PYMODULE'),
+  ('docx.shape',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\shape.py',
+   'PYMODULE'),
+  ('docx.shared',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\shared.py',
+   'PYMODULE'),
+  ('docx.styles',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\styles\\__init__.py',
+   'PYMODULE'),
+  ('docx.styles.latent',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\styles\\latent.py',
+   'PYMODULE'),
+  ('docx.styles.style',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\styles\\style.py',
+   'PYMODULE'),
+  ('docx.styles.styles',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\styles\\styles.py',
+   'PYMODULE'),
+  ('docx.table',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\table.py',
+   'PYMODULE'),
+  ('docx.text',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\__init__.py',
+   'PYMODULE'),
+  ('docx.text.font',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\font.py',
+   'PYMODULE'),
+  ('docx.text.hyperlink',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\hyperlink.py',
+   'PYMODULE'),
+  ('docx.text.pagebreak',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\pagebreak.py',
+   'PYMODULE'),
+  ('docx.text.paragraph',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\paragraph.py',
+   'PYMODULE'),
+  ('docx.text.parfmt',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\parfmt.py',
+   'PYMODULE'),
+  ('docx.text.run',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\run.py',
+   'PYMODULE'),
+  ('docx.text.tabstops',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\text\\tabstops.py',
+   'PYMODULE'),
+  ('docx.types',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\docx\\types.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._context',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_context.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.metadata._typing',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\metadata\\_typing.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lxml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.clean',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\clean.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\optparse.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._os',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pathlib\\_os.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.module_docs',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pydoc_data\\module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\random.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\string\\__init__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xml.utils',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xml\\utils.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path._functools',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\zipfile\\_path\\_functools.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\TALAL '
+   'HUSSAIN\\AppData\\Local\\Programs\\Python\\Python315\\Lib\\zipimport.py',
+   'PYMODULE')])
